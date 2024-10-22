@@ -10,7 +10,12 @@ git checkout branchname
 >> switch to a branch
 
 git switch branchname
->> new command
+>> new command for switching to branch
 
 git merge feature
 >>merge branch to main
+
+git branch -d branchname
+>> delete branch
+
+
